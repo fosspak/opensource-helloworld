@@ -5,7 +5,7 @@ This repository is dedicated to helping you in getting started on an amazing jou
 You can get started by going through some of the resources linked [below](#some-useful-resources).
 Once you have a reasonable understanding of how to open source projects work, you can start by submitting your first pull request in this repository.
 
-All you have to do is to "append" you name to the list in "[Participants.md](https://github.com/mikaalanwar/opensource-helloworld/blob/master/Participants.md)" file in this repository. This would be a good exercise to practice how git works. When contributing to any other repository on GitHub the process with be the same however, instead of appending your name to at the end of a list you would rather be doing something else.
+All you have to do is to "append" you name to the list in "[Participants.md](https://github.com/fosspak/opensource-helloworld/blob/master/Participants.md)" file in this repository. This would be a good exercise to practice how git works. When contributing to any other repository on GitHub the process with be the same however, instead of appending your name to at the end of a list you would rather be doing something else.
 
 I would strongly recommend you to perform this task using CLI commands. The exact same thing can be accomplished using UI as well but through the command line you would have a much more solid understanding of the workflow. Happy Hacking!
 
