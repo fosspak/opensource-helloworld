@@ -1,3 +1,5 @@
 # Participants
 
-- Mikaal Anwar
+- Daniyal Tariq
+- Tamim Mirza
+- Zohaib Ur Rehman
